@@ -1,0 +1,9 @@
+
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(øŸ¢‰8ù¥Ò˜ð/
+hsquid:CommentedOutCodeLine	"<This block of commented-out lines of code should be removed.(ì¼8Šåó—ð/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¹Í½Îüÿÿÿÿ8ßÊÔ˜ð/
+isquid:CommentedOutCodeLine "<This block of commented-out lines of code should be removed.(º‰‰Û8èðÔ˜ð/
+nsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(…ô†¥ùÿÿÿÿ8ÜØ‡™ð/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+isquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(ˆ‘õ¹8±µ„˜ð/

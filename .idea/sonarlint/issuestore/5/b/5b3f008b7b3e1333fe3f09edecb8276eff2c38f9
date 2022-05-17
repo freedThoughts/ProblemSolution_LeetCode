@@ -1,0 +1,7 @@
+
+]squid:S1126'"AReplace this if-then-else statement by a single return statement.(òç¾©ùÿÿÿÿ
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²²÷ùúÿÿÿÿ
+isquid:S3776,"RRefactor this method to reduce its Cognitive Complexity from 40 to the 15 allowed.(õŽÐ•
+Fsquid:S1066"/Merge this if statement with the enclosing one.(¿ª¡î
+isquid:S00117,"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õŽÐ•
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ôíˆ˜ýÿÿÿÿ

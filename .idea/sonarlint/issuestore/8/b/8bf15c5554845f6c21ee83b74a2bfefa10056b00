@@ -1,0 +1,6 @@
+
+Bsquid:S1659"Declare "k" on a separate line.(гдЏСь€€€€8©В№ап/
+Csquid:S1172"&Remove these unused method parameters.(ЕџхT8©В№ап/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(жькть€€€€
+Bsquid:S1659"Declare "j" on a separate line.(гдЏСь€€€€8©В№ап/
+wsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(Џеде8©В№ап/

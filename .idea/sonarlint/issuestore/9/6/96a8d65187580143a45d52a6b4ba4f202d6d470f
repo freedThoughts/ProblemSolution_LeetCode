@@ -1,0 +1,14 @@
+
+U
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓŒà8†‹Å¥Ö/
+>squid:S2129" Remove this "String" constructor(‰èÎ8 ãŒ¤Ö/
+[
+squid:S106'"9Replace this use of System.out or System.err by a logger.(ğ²‚ÿÿÿÿÿ8ö¡˜¤Ö/
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(°Ğ€ªùÿÿÿÿ
+isquid:S1192"LDefine a constant instead of duplicating this literal "stackNumber" 3 times.(ÓŒà8ÖãÆ¥Ö/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ñå¦8İÂÈ¥Ö/
+wsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çôÚÇ8 ãŒ¤Ö/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(™İá8ğş–¤Ö/

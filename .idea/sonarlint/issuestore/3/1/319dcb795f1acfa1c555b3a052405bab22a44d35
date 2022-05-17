@@ -1,0 +1,7 @@
+
+ssquid:S1149'"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8æù…òÓ/
+\squid:S1155">Use isEmpty() to check whether the collection is empty or not.(ÌÚñý8…È£‘ö/
+ssquid:S11499"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8ˆ‡Ášæ/
+ssquid:S1149	"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›þöýÿÿÿÿ8…È£‘ö/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+}squid:S1149D"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8ˆ‡Ášæ/

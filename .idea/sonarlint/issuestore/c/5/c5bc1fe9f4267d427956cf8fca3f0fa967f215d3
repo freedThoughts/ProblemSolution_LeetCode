@@ -1,0 +1,7 @@
+
+usquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(ûåï¤ûÿÿÿÿ8¸ñß‚Ğ/
+Gsquid:S1125")Remove the literal "false" boolean value.(¸·‹­8¸ñß‚Ğ/
+Lsquid:S1125")Remove the literal "false" boolean value.(Äß«ƒÿÿÿÿÿ8¸ñß‚Ğ/
+Lsquid:S1125")Remove the literal "false" boolean value.(ÂÿÚñüÿÿÿÿ8¸ñß‚Ğ/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+Gsquid:S1125")Remove the literal "false" boolean value.(ÍÂ®ş8¸ñß‚Ğ/

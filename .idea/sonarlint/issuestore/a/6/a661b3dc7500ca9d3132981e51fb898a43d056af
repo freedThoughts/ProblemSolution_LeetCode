@@ -1,0 +1,5 @@
+
+\squid:S4973L"9Use the "equals" method if value comparison was intended.(­Å£¾ÿÿÿÿÿ8’†âÔ/
+asquid:S1155T">Use isEmpty() to check whether the collection is empty or not.(³›ºÖùÿÿÿÿ8’†âÔ/
+nsquid:CommentedOutCodeLine&"<This block of commented-out lines of code should be removed.(È»¶áÿÿÿÿÿ8şß¯Ô/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ

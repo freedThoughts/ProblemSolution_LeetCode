@@ -1,0 +1,9 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+asquid:S1155">Use isEmpty() to check whether the collection is empty or not.(ƒşóÚÿÿÿÿÿ8·Î¥£Ã/
+wsquid:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(À¡½8·Î¥£Ã/
+\squid:S1155,">Use isEmpty() to check whether the collection is empty or not.(…ş¹8·Î¥£Ã/
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8¹è®£Ã/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÓõÄ•8 —¨£Ã/
+|squid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾®‚Ûüÿÿÿÿ8¿š¥£Ã/

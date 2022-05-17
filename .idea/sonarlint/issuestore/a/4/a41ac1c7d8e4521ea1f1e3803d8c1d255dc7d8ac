@@ -1,0 +1,18 @@
+
+nsquid:CommentedOutCodeLineL"<This block of commented-out lines of code should be removed.(¥À‚°ûÿÿÿÿ8«»Ëžë/
+V
+squid:S106="9Replace this use of System.out or System.err by a logger.(ª¾Ë8«»Ëžë/
+\squid:UselessImportCheck",Remove this unused import 'java.util.Stack'.(ÞÈ†üúÿÿÿÿ8ÌŒÇô/
+Dsquid:S2111"!Use "BigDecimal.valueOf" instead.(ø¸øŸúÿÿÿÿ8ÝéËžë/
+isquid:CommentedOutCodeLineO"<This block of commented-out lines of code should be removed.(ÍÎøž8«»Ëžë/
+?squid:S2111)"!Use "BigDecimal.valueOf" instead.(æ§—ê8ÝéËžë/
+Lsquid:S5413Q")Verify that "remove()" is used correctly.(àÐ“ìùÿÿÿÿ8ÜþÌžë/
+rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÞû
+?squid:S2111%"!Use "BigDecimal.valueOf" instead.(£³Ô8ÝéËžë/
+Dsquid:S2111D"!Use "BigDecimal.valueOf" instead.(¶û®íøÿÿÿÿ8ÝéËžë/
+nsquid:CommentedOutCodeLineI"<This block of commented-out lines of code should be removed.(€žùøÿÿÿÿÿ8Ì§ìÅô/
+Dsquid:S2111:"!Use "BigDecimal.valueOf" instead.(Ã±¡úÿÿÿÿ8ÝéËžë/
+?squid:S2111"!Use "BigDecimal.valueOf" instead.(—üÇª8ÝéËžë/
+?squid:S2111!"!Use "BigDecimal.valueOf" instead.(Ã„¿µ8ÝéËžë/
+?squid:S2111C"!Use "BigDecimal.valueOf" instead.(ÇÝçâ8ÝéËžë/
+Dsquid:S2111-"!Use "BigDecimal.valueOf" instead.(§Õß‡þÿÿÿÿ8ÝéËžë/

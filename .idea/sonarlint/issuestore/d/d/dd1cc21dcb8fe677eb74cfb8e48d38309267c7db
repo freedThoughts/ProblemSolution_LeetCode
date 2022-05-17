@@ -1,0 +1,11 @@
+
+_squid:S2184"ACast one of the operands of this addition operation to a "float".(¿ä‹®8Ñ´ŒÔÔ/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+Zsquid:S1854!"<Remove this useless assignment to local variable "errorSum".(°›Ä¯8â„ŒÔÔ/
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8ºãÆÔ/
+Xsquid:UselessImportCheck".Remove this unused import 'java.util.TreeSet'.(½îB8û·ÔÔ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8µ¢”ÔÔ/
+Ysquid:S1854";Remove this useless assignment to local variable "results".(®¤§Å8ç¢‘ÔÔ/
+Jsquid:S1481",Remove this unused "results" local variable.(®¤§Å8ç¢‘ÔÔ/
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òşÿÿÿÿ8ºãÆÔ/

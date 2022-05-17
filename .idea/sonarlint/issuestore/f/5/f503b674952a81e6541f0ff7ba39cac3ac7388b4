@@ -1,0 +1,7 @@
+
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8õıìÓ/
+ssquid:S1149)"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(û›şöıÿÿÿÿ8ÖĞ¨œĞ/
+jsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(–øè¼øÿÿÿÿ
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+{
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(Ñ÷ßœûÿÿÿÿ8õıìÓ/

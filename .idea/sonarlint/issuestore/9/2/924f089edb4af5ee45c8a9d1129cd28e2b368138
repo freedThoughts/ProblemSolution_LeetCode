@@ -1,0 +1,9 @@
+
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(÷Ñ¹¸8—”Çµæ/
+hsquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(éÇ‹:8¼ºäµæ/
+hsquid:CommentedOutCodeLine)"<This block of commented-out lines of code should be removed.(éÇ‹:8€çãµæ/
+nsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ã¦ÒŽ8’Ö»µæ/
+[
+squid:S106Q"9Replace this use of System.out or System.err by a logger.(ö™–÷ûÿÿÿÿ8·Ôµæ/
+isquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(ðº™À8´¨•¶æ/

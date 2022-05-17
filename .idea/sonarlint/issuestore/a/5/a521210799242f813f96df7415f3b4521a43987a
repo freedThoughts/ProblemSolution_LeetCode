@@ -1,0 +1,7 @@
+
+Csquid:S21290" Remove this "String" constructor(™ÅŠ°ÿÿÿÿÿ8Ï´çå¿/
+}squid:S1149%"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ƒõý»8«ä³ä¿/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ž®•äøÿÿÿÿ8¨ý·ä¿/
+}squid:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8«ä³ä¿/

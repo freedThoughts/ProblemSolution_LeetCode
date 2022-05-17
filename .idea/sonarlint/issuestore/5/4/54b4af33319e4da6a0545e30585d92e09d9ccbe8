@@ -1,0 +1,6 @@
+
+usquid:S00117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä¸ŸÓÿÿÿÿÿ8ÍÛ³•ì/
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(ß¢Ô’8ÍÛ³•ì/
+ssquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(ÑÖÙƒýÿÿÿÿ8¥±¶•ì/

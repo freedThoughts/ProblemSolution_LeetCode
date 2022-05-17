@@ -1,0 +1,7 @@
+
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÒÇÄÔ8ÈÊ•ÓÃ/
+v
+squid:S135"YReduce the total number of break and continue statements in this loop to use at most one.(¹ŒÚ8‰·‚ÓÃ/
+Š squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(¨…ÄK8›Ğ¦ÓÃ/
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ

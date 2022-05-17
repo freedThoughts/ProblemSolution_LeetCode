@@ -1,0 +1,17 @@
+
+nsquid:CommentedOutCodeLine0"<This block of commented-out lines of code should be removed.(Ž³óÊþÿÿÿÿ8î¬¶Þ/
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8´ú½Ý/
+Zsquid:UselessImportCheck"*Remove this unused import 'java.util.Map'.(¼è½Òþÿÿÿÿ8©˜ÕâÝ/
+jsquid:S001121"FDefine and throw a dedicated exception instead of using a generic one.(ìíãþÿÿÿÿ8´‹’¶Þ/
+esquid:S00112$"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ€²ª8¾“±µÞ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÜÏ¾Å8ÙÉ¨¶Þ/
+dsquid:S1126G"AReplace this if-then-else statement by a single return statement.(‡ÊÇûùÿÿÿÿ8²—¯µÞ/
+^squid:UselessImportCheck".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8©˜ÕâÝ/
+_squid:S1126A"AReplace this if-then-else statement by a single return statement.(Û•âñ8·Óµ¶Þ/
+V
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ºÛã8ÿ¯—¶Þ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(¨·éÛþÿÿÿÿ8È¦ŒÀÝ/
+[squid:UselessImportCheck"1Remove this unused import 'java.util.LinkedList'.(»Äð18©˜ÕâÝ/
+]squid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8óø›µÞ/

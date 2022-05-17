@@ -1,0 +1,11 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¾¼Üçüÿÿÿÿ
+bsquid:UselessImportCheck"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8×“ûêÑ/
+Lsquid:S1481"/Remove this unused "arrayLists" local variable.(ú {8ºçéêÑ/
+^squid:UselessImportCheck".Remove this unused import 'java.util.TreeMap'.(¨éˆèıÿÿÿÿ8º¤—êÑ/
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(û‹•²8«åêÑ/
+[
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8˜³êêÑ/
+wsquid:S3012%"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(À«³8½ƒ‡ëÑ/
+wsquid:S3012?"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(®„ç8§ñ»êÑ/
+[squid:S1854">Remove this useless assignment to local variable "arrayLists".(ú {8ºçéêÑ/

@@ -1,0 +1,4 @@
+
+„ squid:ForLoopCounterChangedCheck"XRefactor the code in order to not assign to this loop counter from within the loop body.(ÌµÐ·
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æüêòüÿÿÿÿ
+3squid:S1643"Use a StringBuilder instead.(µ…Â×

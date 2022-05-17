@@ -1,0 +1,8 @@
+
+isquid:CommentedOutCodeLineb"<This block of commented-out lines of code should be removed.(¿îŒ8§á¢†…0
+hsquid:CommentedOutCodeLineT"<This block of commented-out lines of code should be removed.(«¶Ñy8Ç…´†…0
+[
+squid:S106R"9Replace this use of System.out or System.err by a logger.(ÌÿÉûùÿÿÿÿ8þð†…0
+psquid:S3776)"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(¿îŒ8œßª†…0
+[
+squid:S106$"9Replace this use of System.out or System.err by a logger.(ñËíúûÿÿÿÿ8¯›ýƒ…0
